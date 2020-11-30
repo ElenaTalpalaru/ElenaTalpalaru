@@ -19,7 +19,7 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: #66BFBF;
 }
 
@@ -50,13 +50,13 @@ h3 {
 
 .left-cloud {
   position: absolute;
-  left: 300px;
+  left: 30rem;
   bottom: 300px;
 }
 
 .right-cloud {
   position: absolute;
-  right: 300px;
+  right: 30rem;
   top: 50px;
 }
 .btn {
@@ -66,4 +66,13 @@ h3 {
 }
 a {
   color: #66BFBF;
+  font-weight: 900;
+  margin-right: 2.5rem;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
 }
